@@ -1,9 +1,9 @@
 # Overview
 
-This program demonstrates use of Django and SQL database. This web app lets you write a message and stores that message in a database. It then displays the message in the home page. 
+This program demonstrates use of Django and SQL database. This web app lets you write a birthday and stores that birthday in a database. It then displays the birthday in the home page. 
 
 Here is video demo of my web app:
-[Software Demo Video](https://youtu.be/c73KL4qcSBg)
+[Software Demo Video](https://youtu.be/6idGDz4JfEw)
 
 # Web Pages
 
